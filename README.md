@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm... just a cerative person<br>Call me a RegexPoet</p>
+<p align="left">I'm... just a creative person<br>Call me a RegexPoet</p>
 
 ###
 
